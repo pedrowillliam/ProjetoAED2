@@ -403,3 +403,4 @@ arvoreRB maior_elemento(arvoreRB raiz) {
 
   return maior_elemento (raiz->dir);
 }
+
