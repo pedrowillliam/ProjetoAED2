@@ -2,8 +2,6 @@
 
 int main(){
 
-    printf("primeiro teste para o git!");
+    printf("primeiro teste para o git!\n");
         
-        return 0; 
-
 }
